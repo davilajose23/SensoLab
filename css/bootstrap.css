@@ -3017,7 +3017,7 @@ select[multiple].form-group-lg .form-control {
 .btn:hover,
 .btn:focus,
 .btn.focus {
-  color: #ffffff;
+  color: #2c3e50;
   text-decoration: none;
 }
 .btn:active,
@@ -4578,7 +4578,8 @@ fieldset[disabled] .navbar-default .btn-link:focus {
   color: #2c3e50;
 }
 .navbar-inverse .btn-link {
-  color: #ffffff;
+  color: #2c3e51;
+;
 }
 .navbar-inverse .btn-link:hover,
 .navbar-inverse .btn-link:focus {
